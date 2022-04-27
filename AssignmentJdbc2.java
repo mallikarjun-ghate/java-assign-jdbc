@@ -1,7 +1,3 @@
-//DEVYANI MAHALE
-//JDBC CODE 2
-
-
 import java.sql.Connection;
 import java.sql.DatabaseMetaData;
 import java.sql.DriverManager;
@@ -11,7 +7,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.Scanner;
 
-public class Code2 {
+public class AssignmentJdbc2 {
       public static void main(String[] args) throws ClassNotFoundException, SQLException {
 
            Connection conn;
