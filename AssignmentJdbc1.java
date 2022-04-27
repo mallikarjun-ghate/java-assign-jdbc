@@ -1,14 +1,10 @@
-//DEVYANI MAHALE
-//JDBC 1
-
-
 
 importjava.sql.ResultSet;
 importjava.sql.SQLException;
 importjava.sql.Statement;
 importjava.util.Scanner;
 
-publicclass Code1 {
+publicclass AssignmentJdbc1 {
 
 	publicstatic void main(String[] args) throwsClassNotFoundException, SQLException {
 
